@@ -1,1 +1,2 @@
 ##instrucoes
+Exercício 1: Ao compilar e rodar o programa, abre-se um campo para o usuário digitar um número, após digitado tal número e dado ENTER o programa irá imprimir os números de 1 até o número digitado pelo usuário.
